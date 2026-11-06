@@ -1,0 +1,27 @@
+aula 01: 
+
+escreva "" -> aparece oque esta dentro dos parenteses 
+escreval -> escreva linha ele pula uma linha 
+
+variavel é uma caixinha que guarda uma informaçao que foi imposta a ela 
+
+comandos de saida 
+
+entre "" = aparece a mensagem entre ""
+
+so o nome da variavel = vai imprimir oq foi colocado dentro da variavel 
+
+"mensagem", nome da variavel = mensgaem ola mundo 
+
+atribuiçao 
+
+var 
+msg: caractere 
+
+msg <- "Ola, mundo"
+
+aula 02:
+    
+leia nome: quando apertar enter a stirng ficara dentro da variavel nome 
+
+
